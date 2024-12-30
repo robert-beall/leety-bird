@@ -5,7 +5,7 @@
   - [Sources](#sources)
 
 ## Problem Description
-From leetcode.com<sup>1</sup>:
+From leetcode.com<sup>[1](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)</sup>:
 > Given an integer array nums and an integer k, find three non-overlapping subarrays of length k with maximum sum and return them.<br/>
 >Return the result as a list of indices representing the starting position of each interval (0-indexed). If there are multiple answers, return the lexicographically smallest one.<br/>
 >#### Example 1:
