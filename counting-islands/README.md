@@ -9,10 +9,10 @@ From leetcode.com<sup>1</sup>:
 > An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.<br/>
 >#### Example 1:
 >**Input:** grid = [
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["1","1","1","1","0"],
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["1","1","0","1","0"],
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["1","1","0","0","0"],
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["0","0","0","0","0"]
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
 ]
 >**Output:** 1
 >#### Example 2:
